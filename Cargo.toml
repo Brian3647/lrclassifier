@@ -5,6 +5,7 @@ edition = "2021"
 authors = ["Brian3647 <victoris3647@gmail.com>"]
 description = "A simple logistic regression classifier implementation"
 include = ["Cargo.toml", "src/**.rs", "LICENSE", "README.md"]
+license = "MIT"
 
 [dependencies]
 rand = "0.8.5"
