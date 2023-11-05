@@ -2,7 +2,9 @@
 name = "lrclassifier"
 version = "0.1.0"
 edition = "2021"
+authors = ["Brian3647 <victoris3647@gmail.com>"]
+description = "A simple logistic regression classifier implementation"
+include = ["Cargo.toml", "src/**.rs", "LICENSE", "README.md"]
 
 [dependencies]
-neuroflow = "0.2.0"
 rand = "0.8.5"
