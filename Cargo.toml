@@ -6,6 +6,8 @@ authors = ["Brian3647 <victoris3647@gmail.com>"]
 description = "A simple logistic regression classifier implementation"
 include = ["Cargo.toml", "src/**.rs", "LICENSE", "README.md"]
 license = "MIT"
+repository = "https://github.com/Brian3647/lrclassifier"
+readme = "README.md"
 
 [dependencies]
 rand = "0.8.5"
